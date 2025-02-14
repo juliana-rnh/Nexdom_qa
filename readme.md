@@ -1,4 +1,5 @@
 # Desafio QA - Nexdom
+## Teste Automatizado de FrontEnd com Cypress
 
 Este projeto contém testes automatizados para o frontend da Nexdom e para a API do GitHub.
 
