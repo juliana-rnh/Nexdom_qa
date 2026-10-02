@@ -20,7 +20,7 @@ Instalação de:
 
 ### Clone o Repositório
 ```bash
-git clone https://github.com/juliana-rnh/Nexdom
+git clone https://github.com/juliana-rnh/Nexdom_qa
 cd desafio_qa
 ```
 
